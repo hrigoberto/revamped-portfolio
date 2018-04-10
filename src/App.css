@@ -201,7 +201,7 @@ p {
 }
 
 .About {
-  background-color: black;
+  background-image: url("https://s3.amazonaws.com/photosforportfolio/DSC00123.JPG");
   background-repeat: no-repeat;
   background-size: 1500px;
   background-position: bottom;

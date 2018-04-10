@@ -11,8 +11,6 @@ class App extends Component {
         <NAVBAR />
         <WELCOME />
         <ABOUT />
-        <PHOTOVID />
-        <CODE />
         <CONTACT />
       </div>
     );
